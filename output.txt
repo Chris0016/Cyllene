@@ -1,0 +1,88 @@
+Maintainability (how easily a system can be modified) is one characteristic of software quality. Performance (how slow or fast a system produces
+reliability 
+ 
+Computer reliability is the expectation that the computer and any related functions like networking performs consistently per specifications.
+stability 
+ 
+Informally, stability means that equivalent elements retain their relative positions, after sorting. Example of stable sort. Do we care for
+
+readability 
+ 
+Readability is where the code is written and organized so that another human can easily understand the code if he has to work on it.
+
+portability 
+
+reusability 
+The meaning of code reuse is the reuse of existing (already written) code from either external sources or from one's own past projects to
+
+robust  
+The word robust, when used with regard to computer software, refers to an operating system or other program that performs well not only
+
+user-friendly 
+A system that is easy to learn and easy to use. In the past, this term was so abused that software vendors have become reluctant to use it today.
+
+istributability 
+ What is distributed computing? Distributed computing is a model in which components of a software system are shared among multiple computers or nodes.
+
+Interoperability 
+ Interoperability is a characteristic of a product or system to work with other products or systems. While the term was initially defined for information
+
+Open system  
+ In a computing context, an open system is an open source operating system, typically composed of coordinated modular components from a number of sources and
+Well documented 
+ 
+Technical Documentation − It is a documentation of actual programming components like algorithms, flowcharts, program codes, functional modules, etc. Testing
+
+Security 
+ Computer security, cybersecurity (cyber security), or information technology security (IT security) is the protection of · The field has become of significance
+
+Efficient 
+ That depends on context. In theoretical computer science, usually every polynomial time algorithm is considered 'efficient'.
+
+Cost effective 
+ Are you searching for the most affordable colleges for online bachelor's degrees in computer science? Explore our list of accredited online
+
+On schedule 
+ Scheduling · Initially, processes are added to a queue with a certain level of priority. · If a process uses too much CPU time, it is moved to a lower priority
+
+Scalable 
+ Software scalability is a measure of how easy it is to grow or shrink a piece of software. In many cases it refers to the software's ability to
+
+Verification 
+ Verification is a process of determining if the software is designed and developed as per the specified requirements.
+
+Validation 
+ This refers to the idea that poor-quality input data will produce flawed output. Ensuring that data is valid and accurate is a core goal for most organisations,
+
+Functional tests 
+ Functional testing focuses on testing an application's ability to execute a task. This is different from non-functional testing which looks at the application's
+
+Alpha test (integration) 
+ In short, beta testing can be defined as the testing carried out by real users in a real environment. Though companies do rigorous in-house
+
+Beta (Expert) 
+ Definitions of beta software. noun. software that has not yet been released but has received an alpha test and still has more bugs than a regular release.
+
+Life Cycle  
+ Systems Life CycleEdit. System Life Cycle StagesEdit. The systems life cycle can be broken down into five stages: Analysis, Design, Implementation,
+
+Waterfall lifecycle 
+ Definition: The waterfall model is a classical model used in system development life cycle to create a system with a linear and sequential approach.
+
+Agile lifecycle
+ Agile is a software development methodology that focuses on flexibility, collaboration and efficiency that allow teams to deliver quality products.
+iterative lifecycle
+ 
+The iterative model iterates planning, design, implementation, and testing stages again and again so that the final product built
+
+incremental lifecycle
+ Incremental development is a software development methodology in which the functionality of the system is divided into multiple, separate modules.
+
+Spiral lifecycle
+ Spiral model is one of the most important Software Development Life Cycle models, which provides support for Risk Handling.
+
+Extreme programming lifecycle
+ Extreme Programming is iterative and incremental and is driven by Time-Boxed Cycles. Therefore, the rhythm of the Extreme Programming process is crucial.
+
+Synchronize & Stabilize lifecycle 
+Synchronize and Stabilize Model​​ The development teams work in parallel on various modules and periodically integrate and test the code i.e., the code developed

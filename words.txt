@@ -1,0 +1,19 @@
+Well documented 
+Security 
+Efficient 
+Cost effective 
+On schedule 
+Scalable 
+Verification 
+Validation 
+Functional tests 
+Alpha test (integration) 
+Beta (Expert) 
+Life Cycle  
+Waterfall lifecycle 
+Agile lifecycle
+iterative lifecycle
+incremental lifecycle
+Spiral lifecycle
+Extreme programming lifecycle
+Synchronize & Stabilize lifecycle
