@@ -76,7 +76,7 @@ def parseFile(filePath):
             print(currWord, end='')
 
             definition = getDefinition(currWord)
-            definition = getDefinition(currWord)
+            definition = getDefinition(currWord) #Needs to call twice due to regulations in the API. 
 
             definition = definition.replace("...", "")
             definition = definition.strip()
